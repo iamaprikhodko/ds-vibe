@@ -1,0 +1,1 @@
+import{t as e}from"./render-CryOOwxY.js";import{o as t}from"./Foundations-z5psfLlu.js";e(`/shadows/`,t);

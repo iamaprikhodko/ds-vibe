@@ -1,0 +1,1 @@
+import{t as e}from"./render-CryOOwxY.js";import{s as t}from"./Foundations-z5psfLlu.js";e(`/sizes/`,t);
